@@ -1,3 +1,4 @@
 jupyter-book==0.10.0
 matplotlib
 numpy
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
