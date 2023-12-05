@@ -11,3 +11,4 @@ vaderSentiment
 numpy
 Pillow
 wordcloud
+jupyter-server>=2.11.2 # not directly required, pinned by Snyk to avoid a vulnerability
